@@ -1,0 +1,7 @@
+solidityc>=0.8.0
+test_generation_framework>=0.1.0
+test_runner>=0.1.0
+smart_contract_deployer>=0.1.0
+snark_proof_verifier>=0.1.0
+zkpop_proof_verifier>=0.1.0
+pq_encryption>=0.1.0
